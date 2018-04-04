@@ -4,10 +4,7 @@
 using namespace std;
 
 int main(){
-	string greeting = "Good Night";
-
-	cout << greeting << endl;
-}
+	string greeting = "";
 
 	cout << greeting << endl;
 }
