@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 	
-	int time = ;
+	int time = 1;
 	
 	cout << "Time now is" << time << endl;
 }
