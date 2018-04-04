@@ -8,3 +8,6 @@ int main(){
 
 	cout << greeting << endl;
 }
+
+	cout << greeting << endl;
+}
