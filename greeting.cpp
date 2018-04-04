@@ -4,7 +4,8 @@
 using namespace std;
 
 int main(){
-	string greeting = "Good Night";
 	
-	cout << greeting << endl;
+	int time = ;
+	
+	cout << "Time now is" << time << endl;
 }
